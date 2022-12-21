@@ -1,0 +1,18 @@
+## full_oppo6771-user 10 QP1A.190711.020 08805472cb0b87b3 release-keys
+- Manufacturer: realme
+- Platform: mt6771
+- Codename: RMX1821
+- Brand: Realme
+- Flavor: full_oppo6771-user
+- Release Version: 10
+- Id: QP1A.190711.020
+- Incremental: 08805472cb0b87b3
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: false
+- Locale: en-US
+- Screen Density: undefined
+- Fingerprint: 
+- OTA version: RMX1821EX_11.C.14_1140_202007231952
+- Branch: RMX1821EX_11.C.14_1140_202007231952-random-text-164342136719072
+- Repo: realme_rmx1821_dump
